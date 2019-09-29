@@ -1,6 +1,3 @@
-CREATING FORM
-
-
 <!DOCTYPE html> 
 <html> 
 <head> 

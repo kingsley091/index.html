@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<title>Example </title>
-<style>
-div {
-padding: 20px;
-background-color: yellow ;
-}
-</style>
-<div>
-  This 'div' has a background color applied.
-</div> 
+<!DOCTYPE html> 
 <html> 
 <head> 
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
